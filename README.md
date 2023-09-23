@@ -12,6 +12,7 @@
         ├───java-calculator: package 'java-calculator-1.0.0'
         └───python-calculator: package 'python3.10-python-calculator-0.1.0'
 ```
+![screenshot of programs](./screenshot.png)
 
 ## Running
 `nix run <location>#<package>`
