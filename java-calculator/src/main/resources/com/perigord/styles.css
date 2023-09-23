@@ -1,0 +1,44 @@
+.root {
+    -fx-background-color: #292D3E;
+    -fx-text-fill: white;
+}
+
+.button:pressed {
+    -fx-background-color: lightgray;
+}
+
+.button:focused {
+    -fx-border-color: #309cce;
+    -fx-border-width: 2px;
+}
+
+.textfield:focused {
+    -fx-border-color: #309cce;
+    -fx-border-width: 2px;
+}
+
+.expression {
+    -fx-text-fill: gray;
+}
+
+.input {
+    -fx-background-color: #292D3E;
+    -fx-text-fill: rgb(211, 205, 238);
+    -fx-color: #292D3E;
+    -fx-font-size: 32px;
+}
+
+.number {
+    -fx-background-color: #39485D;
+    -fx-text-fill: white;
+    -fx-font-size: x-large;
+}
+
+.action {
+    -fx-background-color: #283241;
+    -fx-text-fill: #C4C9EC;
+    -fx-font-size: xx-large;
+}
+.action:pressed {
+    -fx-background-color: #5a6b85;
+}
